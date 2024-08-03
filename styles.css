@@ -1,0 +1,18 @@
+.label_input{
+    display: flex;
+    flex-direction: column;
+}
+
+#Amount{
+    width: 100%;
+}
+
+label{
+    font-weight: 600;
+}
+
+input{
+    border: solid 1px gray;
+    border-radius: 3px;
+    padding: 6px 0;
+}
